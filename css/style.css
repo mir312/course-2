@@ -168,7 +168,14 @@ section{
     border: 20px solid #FFFFEF;
 }
 .image{
-	padding-top: 40px;		
+	margin-top: 50px;
+	background: url(../img/bg.jpg);	
+    width: 100%;
+	max-width: 1328px;
+    height: 700px;
+
+
+
 }
 
 .link .icon_head{
