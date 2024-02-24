@@ -167,19 +167,21 @@ section{
 .img{
     border: 20px solid #FFFFEF;
 }
-.image{
-	margin-top: 50px;
+.sec_img{
 	background: url(../img/bg.jpg);	
     width: 100%;
 	max-width: 1328px;
     height: 700px;
-
-
-
+    margin-top: -60px;
 }
-
 .link .icon_head{
 	width: 18px;
 	height: 18px;
 	margin: 0 5px;
+}
+.img_txt{
+text-align:right;
+}
+.img_txt .sec_tit{
+	text-align: right;
 }
