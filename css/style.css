@@ -159,14 +159,13 @@ section{
 	padding-left: 20px;
 }
 .img{
-    border: 20px solid #FFFFEF;
+ 
 }
 .sec_img{
 	background: url(../img/bg.jpg);	
-    width: 100%;
-	max-width: 1328px;
     height: 700px;
     margin-top: -60px;
+	border: 20px solid #FFFFEF;
 } 
 .link .icon_head{
 	width: 18px;
