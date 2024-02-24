@@ -151,18 +151,18 @@ section{
 		width:calc((100% - 60px) / 4);
 		width: 465px;
 		}
+		.head_img{
+			width: 90px;
+			height: 26px;
+			margin: 0 auto;
+			margin-top: -25px;
+			}
+			
 
 /* 
 
 
-.head_img{
-width: 90px;
-height: 26px;
-}
-.head_img{
-margin: 0 auto;
-margin-top: -25px;
-}
+
 .icons{
 text-align:right;
 margin-top: -30px;
