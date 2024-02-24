@@ -136,27 +136,27 @@ section{
 	 background: #FFFFEF;
 	margin: 0 auto;
 	}
-	.menu li{
-		font-size: 16px;
-		font-weight: 400;
-		line-height: 25px;
-		letter-spacing: 2px;
-		text-align: left;
-		color:  #56593D;
+.menu li{
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 25px;
+	letter-spacing: 2px;
+	text-align: left;
+	color:  #56593D;
+	}
+.menu ul {
+	margin-top: 40px;
+}
+.menu .list{
+	width:calc((100% - 60px) / 4);
+	width: 465px;
 		}
-		.menu ul {
-			margin-top: 40px;
-		}
-		.menu .list{
-		width:calc((100% - 60px) / 4);
-		width: 465px;
-		}
-		.head_img{
-			width: 90px;
-			height: 26px;
-			margin: 0 auto;
-			margin-top: -25px;
-			}
+.head_img{
+	width: 90px;
+	height: 26px;
+	margin: 0 auto;
+    margin-top: -25px;
+}
 			
 
 /* 
