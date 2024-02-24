@@ -175,10 +175,16 @@ section{
 }
 .img_txt{
 text-align:right;
-margin-top: 500px;
+margin-top: 450px;
 }
 .img_txt .sec_tit{
 	text-align: right;
-
 	
+}
+.sec_desc{
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 2px;
+color: #56593D;
+margin-right:40px;
 }
