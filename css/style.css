@@ -130,14 +130,14 @@ section{
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
-
-/* 
 .header{
-width: 1424px;
-height: 16px;
- background: #FFFFEF;
-margin: 0 auto;
-}
+	width: 1424px;
+	height: 16px;
+	 background: #FFFFEF;
+	margin: 0 auto;
+	}
+/* 
+
 .menu li{
 font-size: 16px;
 font-weight: 400;
