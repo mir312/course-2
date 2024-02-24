@@ -97,6 +97,10 @@ section{
 .hover:hover{
 	color: #BE963F;
 }
+.pink{
+	background: #FFFFEF;
+	
+}
 .btn{
 	width: 154px;
 	height: 56px;
