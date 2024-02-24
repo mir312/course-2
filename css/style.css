@@ -102,19 +102,17 @@ section{
 	height: 56px;
 	border: solid 1px #56593D ;
 	background-color: #56593D;
-	color: #34280E;
-	display: flex;
-	flex-wrap: wrap;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 1px;
+	color:  #FFFFEF;
 	margin-left: 1100px;
     font-size: 16px;
     line-height: 22px;
     letter-spacing: 1px;
 	color:  #FFFFEF;
-	justify-content: center;
 }
-.btn:hover{
-	box-shadow: 0px 6px 5px 2px #836A36;
-}
+	
 .link{
 	transition: 0.3s;
 }
@@ -177,9 +175,10 @@ section{
 }
 .img_txt{
 text-align:right;
-
+margin-top: 500px;
 }
 .img_txt .sec_tit{
 	text-align: right;
+
 	
 }
