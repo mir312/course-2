@@ -160,16 +160,15 @@ section{
 .icons{
 	text-align:right;
 	margin-top: -30px;
-	
-	}
-	.icons_head{
-		padding-left: 20px;
-	}
-	.img{
-		border: 20px solid #FFFFEF;
-	}
-	.image{
-		padding-top: 40px;		
-	}
+}
+.icons_head{
+	padding-left: 20px;
+}
+.img{
+    border: 20px solid #FFFFEF;
+}
+.image{
+	padding-top: 40px;		
+}
 
 
