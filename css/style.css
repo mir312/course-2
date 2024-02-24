@@ -173,7 +173,7 @@ section{
 	max-width: 1328px;
     height: 700px;
     margin-top: -60px;
-}
+} 
 .link .icon_head{
 	width: 18px;
 	height: 18px;
@@ -184,4 +184,5 @@ text-align:right;
 }
 .img_txt .sec_tit{
 	text-align: right;
+	
 }
