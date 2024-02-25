@@ -212,5 +212,12 @@ line-height: 26px;
 letter-spacing: 2px;
 color:  #56593D;
 margin-top: 40px;
-
+}
+.link_shop p :first-child{
+border-bottom: 2px solid  #56593D;
+width: 102px;
+}
+.link_shop p :last-child{
+	border-bottom: 2px solid  #56593D;
+	width: 135px;
 }
