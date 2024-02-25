@@ -213,11 +213,18 @@ letter-spacing: 2px;
 color:  #56593D;
 margin-top: 40px;
 }
-.link_shop p :first-child{
-border-bottom: 2px solid  #56593D;
-width: 102px;
+
+.shop{
+	border-bottom:2px solid #56593D;
+	width: 102px;
 }
-.link_shop p :last-child{
-	border-bottom: 2px solid  #56593D;
+.link_shop i{
+	margin-left: -85px;
+}
+.link_shop i:last-child{
+	margin-left: -80px;
+}
+.read{
+	border-bottom:2px solid #56593D;
 	width: 135px;
 }
