@@ -170,7 +170,7 @@ section{
     margin-top: -60px;
 	width: 1328px;
 	border: 20px solid #FFFFEF;
-	margin-bottom: 120px;
+	margin-bottom: 100px;
 } 
 .link .icon_head{
 	width: 18px;
@@ -202,4 +202,15 @@ height: 243px;
 font-weight: 400;
 margin: 0 auto;
 color: #56593D;
+}
+.link_shop{
+justify-content: center;
+gap: 65px;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 2px;
+color:  #56593D;
+margin-top: 40px;
+
 }
