@@ -98,7 +98,8 @@ section{
 	color: #BE963F;
 }
 .pink{
-	background: #FFFFEF;
+	 background: #FFFFEF; 
+	/* background: red; */
 
 }
 .btn{
@@ -324,7 +325,7 @@ margin: 0 auto;
 }
 .right_2 img{
 	width: 743px;
-	height: 618px;	
+	height: 885px;	
 }
 .left_2{
 width: 521px;
