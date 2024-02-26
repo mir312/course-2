@@ -263,3 +263,12 @@ color: #56593D;
     height: 700px;
 	border: 20px solid #FFFFEF;
  }
+.main_desc{
+font-size: 17px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 2px;
+text-align: center;
+color:  #56593D;
+margin-top: 60px;
+}
