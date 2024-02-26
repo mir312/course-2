@@ -241,8 +241,16 @@ font-weight: 400;
 line-height: 22px;
 text-align: center;
 margin-top: 20px;
-margin-bottom: 20px;
+margin-bottom: 15px;
+color: #56593D;
+
 }
 .price{
-	
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+	letter-spacing:2px;
+	text-align: center;  
+	color:#717353;
+    margin: 165px;
 }
