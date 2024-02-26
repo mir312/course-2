@@ -259,9 +259,11 @@ color: #56593D;
 }
 .main_img{
 	background:url(../img/main_img.jpg);
+	background-size: cover;
 	width: 1328px;
     height: 700px;
 	border: 20px solid #FFFFEF;
+	margin-top: 20px;
  }
 .main_desc{
 font-size: 17px;
