@@ -292,3 +292,8 @@ height: 618px;
 width: 521px;
 height: 391px;
 }
+.desc_border{
+	border: 1px solid  #717353;
+	width: 40px;
+	margin: 0 auto;
+}
