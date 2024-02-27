@@ -350,3 +350,18 @@ line-height: 29px;
 text-align: center;
 margin: 0 auto;
 }
+
+.cart_ic{
+	position: relative;
+}
+.cart_num{
+	position: absolute;
+	background: #fff;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	bottom: 0;
+	right: 0;
+}
