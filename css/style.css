@@ -99,7 +99,7 @@ section{
 }
 .pink{
 	 background: #FFFFEF; 
-	/* background: red; */
+	 /* background: red; */
 
 }
 .btn{
@@ -347,6 +347,9 @@ height: 391px;
 margin-top: 60px;
 }
 /* section subscribe */
+.subscribe{
+	margin-top: 50px;
+}
 .subscribe .sec_tit{
 font-size: 28px;
 font-weight: 400;
