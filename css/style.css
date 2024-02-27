@@ -365,4 +365,12 @@ text-align: center;
 margin: 0 auto;
 margin-bottom: 50px;
 }
-
+.input_txt{
+	border-bottom: solid 1px  #56593D;
+	width: 340px;
+	margin: 0 auto;
+	font-size: 20px;
+	font-weight: 400;
+	color:#56593D;
+	padding: 0 20px 10px 50px;
+}
