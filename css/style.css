@@ -468,6 +468,8 @@ width: 256px;
 .footer_menu{
 	width: 253px;
 	height: 215px;
+
+	margin-right: 126px;
 }
 .footer_txt{
 width: 348px;
@@ -486,4 +488,13 @@ text-align: left;
 margin-bottom: 20px;
 color: #FFFFEF;
 }
-.footer_list{}
+.footer_list li{
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing:2px;
+text-align: left;
+color: #FFFFEF;
+margin-bottom: 20px;
+
+}
