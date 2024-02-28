@@ -118,8 +118,9 @@ section{
 	color:  #FFFFEF;
 }
 .btn:hover{
-	background-color:#836A36;
+	/* background-color:#836A36; */
 	transition: 0.5s;	
+	background-color: orangered;
 }	
 .link{
 	transition: 0.3s;
