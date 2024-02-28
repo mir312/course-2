@@ -135,9 +135,14 @@ section{
 .header{
 	width: 1424px;
 	height: 16px;
-	 background: #FFFFEF;
+	background: #FFFFEF;
 	margin: 0 auto;
-	}
+}
+header{
+    position: fixed;
+    background:#fff;
+	width: 100%;
+}
 .menu li{
 	font-size: 16px;
 	font-weight: 400;
@@ -154,6 +159,7 @@ section{
 	width: 465px;
 	margin-left: 30px;
 }
+
 .head_img{
 	width: 90px;
 	height: 26px;
@@ -185,7 +191,7 @@ section{
 .sec_img{
 	background: url(../img/bg.jpg);	
     height: 700px;
-    margin-top: -60px;
+    margin-top: 40px;
 	width: 1328px;
 	border: 20px solid #FFFFEF;
 	margin-bottom: 100px;
@@ -429,9 +435,6 @@ margin: 0 auto;
 	min-width: 320px;
 	margin: 0 auto;
 	padding: 0 15px;	
-}
-.footer_icons{
-
 }
 .footer_fb{
 background: url(../img/icons/ic_face.svg) center no-repeat;
