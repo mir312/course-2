@@ -428,8 +428,39 @@ margin: 0 auto;
 	padding: 0 15px;	
 }
 .footer_icons{
-	
-}
-.footer_ic .footer_fb{
 
 }
+.footer_fb{
+background: url(../img/icons/ic_face.svg) center no-repeat;
+width: 16px;
+height: 23px;
+}
+.footer_pint{
+	background: url(../img/icons/ic_pint.svg) center no-repeat;
+	width: 22px;
+	height: 22px;
+}
+.footer_ins{
+	background: url(../img/icons/ic_inst.svg) center no-repeat;
+	width: 22px;
+	height: 22px;
+}
+.footer_ic{
+ margin-right: 20px;
+}
+.footer_icons{
+	margin-right:-15px;
+}
+.footer_txt p{
+font-size: 15px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+color: #FFFFEF;
+margin-bottom: 15px;
+}
+.footer_border{
+	border: solid 1px #FFFFEF;
+	width:40px ;
+}
+.footer_txt{}
