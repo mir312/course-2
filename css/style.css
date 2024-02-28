@@ -469,7 +469,6 @@ width: 256px;
 	width: 253px;
 	height: 215px;
 }
-
 .footer_txt{
 width: 348px;
 height: 124px;
@@ -479,5 +478,12 @@ height: 124px;
 }
 
 .footer_tit{
-	
+font-size: 15px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 2px;
+text-align: left;
+margin-bottom: 20px;
+color: #FFFFEF;
+
 }
