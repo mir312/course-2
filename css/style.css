@@ -415,5 +415,15 @@ color:#56593D;
 
      /* footer */
 .footer{
-	
+width: 1424px;
+height: 382px;
+background: #717353;
+margin: 0 auto;
+}
+.container_foot{
+	max-width:1392px;
+	width: 100%;
+	min-width: 320px;
+	margin: 0 auto;
+	padding: 0 15px;	
 }
