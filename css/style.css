@@ -506,5 +506,12 @@ letter-spacing:2px;
 text-align: left;
 color: #FFFFEF;
 margin-bottom: 20px;
+}
+.footer_link{
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+text-align: left;
+color: #FFFFEF;
 
 }
