@@ -141,8 +141,10 @@ section{
 }
 header{
     position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
     background:#fff;
-	width: 100%;
 }
 .menu li{
 	font-size: 16px;
