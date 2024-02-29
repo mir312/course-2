@@ -145,6 +145,7 @@ header{
 	left: 0;
 	right: 0;
     background:#fff;
+	padding-bottom: 50px;
 }
 .menu li{
 	font-size: 16px;
@@ -175,6 +176,7 @@ header{
 }
 .icons_head{
 	padding-left: 20px;
+	
 }
 .cart_ic{
 	position: relative;
